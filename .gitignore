@@ -1,0 +1,11 @@
+*.env
+*.png
+*.dcm
+*.json
+*.txt
+*.log
+*.csv
+*.jsonl
+/files/*
+/converted/*
+/dcmconvert/
